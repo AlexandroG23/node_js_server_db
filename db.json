@@ -1,0 +1,60 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "materia": [
+        {
+          "nombre": "HTML desde Cero"
+        },
+        {
+          "nombre": "React desde Cero"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        }
+      ],
+      "id": "9bde"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Sofia",
+      "apellido": "Cardenas",
+      "promedio": 8.2,
+      "id": "fd1b"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Perez",
+      "promedio": 10,
+      "id": "eff5"
+    },
+    {
+      "id": "baf6",
+      "nombre": "Crystall",
+      "apellido": "Molly",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "HTML desde Cero",
+      "duración": 7,
+      "dificultad": "intermedia",
+      "id": "006c"
+    },
+    {
+      "nombre": "React desde Cero",
+      "duración": 10,
+      "dificultad": "avanzada",
+      "id": "0f0e"
+    },
+    {
+      "nombre": "JavaScript desde Cero",
+      "duración": 15,
+      "dificultad": "básica",
+      "id": "d48b"
+    }
+  ]
+}
